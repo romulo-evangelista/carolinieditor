@@ -17,7 +17,6 @@
 #app #content {
   text-align: center;
   display: flex;
-  width: 30vw;
   flex-direction: column;
   justify-content: center;
 }
