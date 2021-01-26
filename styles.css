@@ -2,6 +2,10 @@
   margin: 0;
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background: #FFFFFF url('assets/background.png') no-repeat fixed;
+  background-size: cover;
+  text-decoration: none;
+  color: antiquewhite;
 }
 
 #app {
@@ -13,6 +17,7 @@
 #app #content {
   text-align: center;
   display: flex;
+  width: 30vw;
   flex-direction: column;
   justify-content: center;
 }
