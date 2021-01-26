@@ -1,5 +1,5 @@
-function Home() {
-  return <h1>Em breve...</h1>
-}
+import App from "./_app";
 
-export default Home;
+export default function Index() {
+  return <App />
+}
